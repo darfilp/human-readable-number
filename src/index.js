@@ -25,4 +25,3 @@ module.exports = function toReadable (n) {
     return 'error'
   }
 }
-}
